@@ -359,7 +359,7 @@ if __name__ == "__main__":
     parser.add_argument("--start", type=int, default=0)
     parser.add_argument("--stop", type=int, default=3)
     parser.add_argument("--lr", type=float, default=0.0002) # Originally 0.0005
-    parser.add_argument("--ckpt", type=str, default='../checkpoint/550000_backup.pt')
+    parser.add_argument("--ckpt", type=str, default='../checkpoint/550000.pt')
     parser.add_argument("--s_ds", type=str, default='ffhq')
     parser.add_argument("--t_ds", type=str, default='babies')
     parser.add_argument("--exp", type=str, default=None, required=True)
