@@ -1,11 +1,11 @@
 # SoLAD
 SoLAD: Sampling over Latent Adapter for Few Shot Generative Modelling
 
-1. Download FFHQ checkpoint using the following link (This is a third party link (owner: Kim Seonghyeon) and does not reveal author identity): https://drive.google.com/file/d/1PQutd-JboOCOZqmd95XWxWrO8gGEvRcO/view
+1. Download FFHQ checkpoint using the following link (This is a third party link (owner: Kim Seonghyeon): https://drive.google.com/file/d/1PQutd-JboOCOZqmd95XWxWrO8gGEvRcO/view
 
 2. Place the checkpoint in the folder checkpoint.
 
-3. Download the entire babies dataset for FID computation using the following link (This is a third party link (owner: Utkarsh Ojha) and does not reveal author identity): https://drive.google.com/file/d/1JmjKBq_wylJmpCQ2OWNMy211NFJhHHID/view?usp=sharing
+3. Download the entire babies dataset for FID computation using the following link (This is a third party link (owner: Utkarsh Ojha): https://drive.google.com/file/d/1JmjKBq_wylJmpCQ2OWNMy211NFJhHHID/view?usp=sharing
 
 4. Create a folder ./data/real_babies and extract all the real images in that directory.
 
